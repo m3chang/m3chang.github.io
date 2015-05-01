@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[背課汗的電腦筆記]]></title>
   <link href="http://m3chang.github.io/atom.xml" rel="self"/>
   <link href="http://m3chang.github.io/"/>
-  <updated>2015-05-02T03:33:18+08:00</updated>
+  <updated>2015-05-02T03:50:31+08:00</updated>
   <id>http://m3chang.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Niklas Chang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
