@@ -4,7 +4,7 @@
   <title><![CDATA[背課汗的電腦筆記]]></title>
   <link href="http://m3chang.github.io/atom.xml" rel="self"/>
   <link href="http://m3chang.github.io/"/>
-  <updated>2015-05-02T04:19:52+08:00</updated>
+  <updated>2015-05-02T04:22:29+08:00</updated>
   <id>http://m3chang.github.io/</id>
   <author>
     <name><![CDATA[Niklas Chang]]></name>
@@ -26,7 +26,10 @@
 
 <p>如何貼link?</p>
 
-<p><a href="http://2-date.me">http://2-date.me</a></p>
+<pre><code>http://2-date.me
+
+testing code
+</code></pre>
 ]]></content>
   </entry>
   
