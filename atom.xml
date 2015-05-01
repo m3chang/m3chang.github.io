@@ -4,7 +4,7 @@
   <title><![CDATA[背課汗的電腦筆記]]></title>
   <link href="http://m3chang.github.io/atom.xml" rel="self"/>
   <link href="http://m3chang.github.io/"/>
-  <updated>2015-05-02T04:14:30+08:00</updated>
+  <updated>2015-05-02T04:15:16+08:00</updated>
   <id>http://m3chang.github.io/</id>
   <author>
     <name><![CDATA[Niklas Chang]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Tesing]]></title>
-    <link href="http://m3chang.github.io/blog/2015/05/02/tesing/"/>
+    <title type="html"><![CDATA[Testing]]></title>
+    <link href="http://m3chang.github.io/blog/2015/05/02/testing/"/>
     <updated>2015-05-02T00:00:00+08:00</updated>
-    <id>http://m3chang.github.io/blog/2015/05/02/tesing</id>
+    <id>http://m3chang.github.io/blog/2015/05/02/testing</id>
     <content type="html"><![CDATA[<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 </pre></td><td class='code'><pre><code class=''><span class='line'>Awesome code snippet
