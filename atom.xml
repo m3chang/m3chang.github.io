@@ -4,7 +4,7 @@
   <title><![CDATA[Nick's notes]]></title>
   <link href="http://m3chang.github.io/atom.xml" rel="self"/>
   <link href="http://m3chang.github.io/"/>
-  <updated>2015-05-06T13:02:56+08:00</updated>
+  <updated>2015-05-19T11:36:32+08:00</updated>
   <id>http://m3chang.github.io/</id>
   <author>
     <name><![CDATA[Niklas Chang]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hsbc]]></title>
+    <link href="http://m3chang.github.io/blog/2015/05/19/hsbc/"/>
+    <updated>2015-05-19T11:34:31+08:00</updated>
+    <id>http://m3chang.github.io/blog/2015/05/19/hsbc</id>
+    <content type="html"><![CDATA[<p><a href='http://vbtrax.com/track/clicks/2396/c627c2bf9c0725dcf99ca3218d229f4d23695b8e29e0eee25636bf06640157f89f71ace55771dd?subid_1=&subid_2=&subid_3='><img src='http://vbtrax.com/track/imp/img/10866/c627c2bf9c0725dcf99ca3218d229f4d23695b8e29e0eee25636bf06640157f89f71ace55771dd?subid_1=&subid_2=&subid_3=' border='0' /></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Title]]></title>
